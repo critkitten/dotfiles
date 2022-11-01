@@ -1,0 +1,10 @@
+[user]
+	email = critkitten@mailbox.org
+	name = critkitten
+	username = critkitten
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
