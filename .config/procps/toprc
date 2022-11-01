@@ -16,3 +16,4 @@ Fixed_widest=0, Summ_mscale=1, Task_mscale=0, Zero_suppress=0
 
 pipe	lsof	lsof -P -p %d 2>&1
 pipe	strace	strace -p %d 2>~/strace
+pipe	memory	pmap -x %d 2>&1
