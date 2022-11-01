@@ -1,0 +1,11 @@
+host = mpd
+auto-center = yes
+library-page-tags = artist album
+list-format = "[%album%|(NO ALBUM)] \ %date% / %track%. [%title%|(title n/a)]  <<XX>> [%artist%|(artist n/a)] [- %composer%|]"
+status-format = "[%artist%|(artist n/a)] - [%title%|(title n/a)]"
+#search-format = 
+display-time = yes
+seek-time = 30
+enable-colors = yes
+enable-mouse = no
+lyrics-show-plugin = no
